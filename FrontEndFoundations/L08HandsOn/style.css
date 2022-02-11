@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-size:xx-large;
+}
+header{
+    background-color: lightgray;
+    padding: 10px;
+}
+ul{
+    display: table;
+    margin: 0 auto;
+}
+
+.input{
+    color: red;
+}
