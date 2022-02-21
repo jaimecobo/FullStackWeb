@@ -1,0 +1,8 @@
+<!-- <p>list works!</p> -->
+
+<ul>
+    <li *ngFor="let l of listOfTasks">
+        <a [routerLink] = "['/details', l.id]" >{{l.name}}</a>
+
+    </li>
+</ul>

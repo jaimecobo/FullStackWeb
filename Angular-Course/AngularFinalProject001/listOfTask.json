@@ -1,0 +1,19 @@
+{
+    "listOfTask":[
+        {
+            "id": 1,
+            "name": "Task_01",
+            "toDo":"Eat breakfast"
+        },
+        {
+            "id": 2,
+            "name": "Task_02",
+            "toDo":"Go to the Gym"
+        },
+        {
+            "id": 3,
+            "name": "Task_03",
+            "toDo":"Take a shower"
+        }
+    ]
+}
