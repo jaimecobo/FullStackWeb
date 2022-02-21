@@ -1,0 +1,14 @@
+<div class="listOfTasks">
+  <h1>
+    LISTS OF TASKS
+  </h1>
+  
+  <app-display-listOfTask
+      *ngFor="let listOfTask of listOfTasks" 
+      [listOfTask]="listOfTask" 
+      (listOfTaskDeleted)="onListOfTaskDeleted($event)" 
+      (listOfTaskView)="onListOfTaskView($event)"
+  >
+</app-display-listOfTask>
+
+</div>
