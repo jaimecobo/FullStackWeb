@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    border: 2px solid lightslategray;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: lightslategray;
+    height: 40px;
+    margin-bottom: 0%;
+}
+
+h2{
+    text-align: center;
+    border: 2px solid rgb(123, 191, 214);
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(123, 191, 214);
+    height: 40px;
+    margin-top: 0%;
+    
+}

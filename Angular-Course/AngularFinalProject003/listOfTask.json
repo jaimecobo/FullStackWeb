@@ -1,0 +1,30 @@
+
+
+{
+    "listOfTask":[
+        {
+            "id": 1,
+            "name": "Morning_List", 
+            "toDo01": "Eat quick breakfast",
+            "toDo02": "Go to the Gym",
+            "toDo03": "Take a shower",
+            "toDo04": "Eat Main breakfast",
+            "toDo05": "Get to work"
+
+        },
+        {
+            "id": 2,
+            "name": "Afternoon_List", 
+            "toDo01": "Eat lunch",
+            "toDo02": "Spend time with colleagues",
+            "toDo03": "Continue working"
+        },
+        {
+            "id": 3,
+            "name": "Evening_list",
+            "toDo01": "Yoga",
+            "toDo02": "Dine",
+            "toDo03": "Prepare everything for tomorrow"
+        }
+    ]
+}
